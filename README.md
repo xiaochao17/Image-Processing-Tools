@@ -3,7 +3,7 @@
 
 ## Tools Directory
 
-~ Vector Quantization for image compression
+* Vector Quantization for image compression
 
 
 
