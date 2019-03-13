@@ -30,8 +30,8 @@ computed depending on three parameters:
 
 
 ## Running the tests
-
-MyCompression.exe myImage.raw 16 1
+javac VQuantization.java
+java VQuantization myImage.raw 16 1
 
 ## Authors
 
