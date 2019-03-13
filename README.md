@@ -3,7 +3,9 @@
 
 ## Tools Directory
 
-* Vector Quantization for image compression
+*  Vector Quantization for Image Compression
+*  Filters for Image Denoising
+*  Histogram Equalization for Contrast Enhancement
 
 
 

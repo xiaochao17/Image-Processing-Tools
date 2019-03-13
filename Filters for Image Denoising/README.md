@@ -20,14 +20,13 @@ Some useful introductions for basic understanding could be found here:
 The programs can be invoked as follows (in MacOS):  
 &nbsp;&nbsp;&nbsp;&nbsp; g++ -Wall -std=c++17 DenoisingGrayImage.cpp -o DenoisingGrayImage  
 &nbsp;&nbsp;&nbsp;&nbsp; ./DenoisingGrayImage pepper.raw pepper_uni 
-&nbsp;&nbsp;  
+&nbsp;&nbsp;    
 &nbsp;&nbsp;&nbsp;&nbsp; g++ -Wall -std=c++17 DenoisingColorImage.cpp -o DenoisingColorImage  
 &nbsp;&nbsp;&nbsp;&nbsp; ./DenoisingColorImage rose_color.raw rose_color_noise.raw  
 &nbsp;&nbsp;  
 &nbsp;&nbsp;&nbsp;&nbsp; g++ -Wall -std=c++17 RemoveShotNoise.cpp -o RemoveShotNoise  
 &nbsp;&nbsp;&nbsp;&nbsp; ./RemoveShotNoise pepper_dark.raw pepper_dark_noise.raw  
 &nbsp;&nbsp;  
-
 The output files could be recognized from the filename accordingly
 
 
