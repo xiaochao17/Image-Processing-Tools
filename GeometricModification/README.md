@@ -19,7 +19,7 @@ The program can be invoked as follows (in MacOS):
 &nbsp;&nbsp;$g++ -Wall -std=c++17 SpatialWarping.cpp -o SpatialWarping  
 &nbsp;&nbsp;$ ./SpatialWarping hat.raw   
 
-&nbsp;&nbsp; run the program in MATLAB
+&nbsp;&nbsp; run the lens distortion program in MATLAB  
 
 The output files could be recognized from the filename accordingly
 
