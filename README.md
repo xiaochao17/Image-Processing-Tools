@@ -1,11 +1,15 @@
 # Image Processing Tools
 
+**No** thrid-party libraries like OpenCV needed
 
 ## Tools Directory
 
 *  Vector Quantization for Image Compression
 *  Filters for Image Denoising
 *  Histogram Equalization for Contrast Enhancement
+*  Half-toning for Grey and Color Images Printing
+*  Sobel Detector - Edge Detection
+*  Geometric Transformation
 
 
 
